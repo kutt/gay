@@ -1,3 +1,4 @@
+# make json readable by jq
 [
     paths | 
     .[1:] |
